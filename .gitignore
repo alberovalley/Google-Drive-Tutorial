@@ -1,6 +1,4 @@
-*.class
+# generated files
+bin/
+gen/
 
-# Package Files #
-*.jar
-*.war
-*.ear
